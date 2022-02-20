@@ -1,1 +1,4 @@
+title: "taking . time"
 remote_theme: riggraz/no-style-please
+theme_config:
+  appearance: "light"
