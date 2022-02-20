@@ -1,5 +1,4 @@
 ---
 ---
 
-@import "jts";
-@import "no-style-please";
+@import 'no-style-please', 'jts';
