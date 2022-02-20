@@ -5,19 +5,19 @@
 
 @font-face {
   font-family: "TT2020";
-  src: url('fonts/TT2020StyleE-Regular.woff2') format('woff2');
+  src: url('./fonts/TT2020StyleE-Regular.woff2') format('woff2');
   font-weight: normal;
   font-style: normal; 
 }
 
 @font-face {
   font-family: "TT2020";
-  src: url('fonts/TT2020StyleE-Italic.woff2') format('woff2');
+  src: url('./fonts/TT2020StyleE-Italic.woff2') format('woff2');
   font-weight: normal;
   font-style: italic; 
 }
 
 body {
   font-family: "TT2020", monospace;
-  color: orange;
+  color: #FF0000;
 }
