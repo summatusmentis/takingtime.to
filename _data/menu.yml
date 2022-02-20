@@ -1,3 +1,10 @@
 entries:
     - title: /photograph
+      entries:
+        - title: analog.in.analog
+          url: https://instagram.com/analog.in.analog
     - title: /write
+      entries:
+        - title: Fite Me IRL
+          post_list:
+            cateogry: fitemeirl
