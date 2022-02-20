@@ -1,3 +1,3 @@
-taking . time
+# taking . time
 - . to / photograph
 - . to / write
