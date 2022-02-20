@@ -1,2 +1,0 @@
-- . to / photograph
-- . to / write
