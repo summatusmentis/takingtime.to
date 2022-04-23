@@ -1,5 +1,6 @@
 title: "taking time.to"
 remote_theme: riggraz/no-style-please
+url: https://takingtime.to
 theme_config:
   appearance: "light"
   back_home_text: "go back"
