@@ -1,7 +1,7 @@
-—-
+---
 layout: post
 category: fitemeirl
-—-
+---
 
 Ok, hear me out. The Omega Aqua Terra Worldtimer is really very pretty. It’s also very thick, but so is every other Omega these days. Whatever, I don’t care, that’s not the point. The point here is this: Omega should feel bad about their Omega Aqua Terra Worldtimer *because it isn’t a worldtimer*. 
 
