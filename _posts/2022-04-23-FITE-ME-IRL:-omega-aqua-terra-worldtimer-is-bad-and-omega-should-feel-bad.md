@@ -3,6 +3,8 @@ layout: post
 category: fitemeirl
 ---
 
+_This post was [originally published](https://watchclicker.com/the-omega-aqua-terra-worldtimer-is-bad-and-omega-should-feel-bad/) on the WatchClicker blog_
+
 Ok, hear me out. The Omega Aqua Terra Worldtimer is really very pretty. It’s also very thick, but so is every other Omega these days. Whatever, I don’t care, that’s not the point. The point here is this: Omega should feel bad about their Omega Aqua Terra Worldtimer *because it isn’t a worldtimer*. 
 
 Of course, to many (and to me, for a long time), “worldtimer” means “there’s a ring with 24 different cities on it, with a 24 hour scale that updates accordingly “. The layperson can be forgiven for believing that, Omega cannot. I’d even go so far as to say Omega and other companies doing this are *contributing* to the average person believing that. 
