@@ -1,8 +1,9 @@
 entries:
     - title: /photograph
       entries:
-        - title: TKTKTK analog.in.analog
-          url: https://instagram.com/analog.in.analog
+        - title: analog.in.analog
+          post_list:
+            category: analoginanalog
     
     - title: /write
       entries:
