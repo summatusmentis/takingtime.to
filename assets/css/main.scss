@@ -5,17 +5,30 @@
 @import "no-style-please";
 
 @font-face {
-  font-family: "TT2020";
+  font-family: "TT2020B";
+  src: url("/assets/fonts/TT2020StyleB-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal; 
+}
+
+@font-face {
+  font-family: "TT2020D";
   src: url("/assets/fonts/TT2020StyleB-Regular.woff2") format("woff2");
   font-weight: normal;
   font-style: normal; 
 }
 
 body {
-  font-family: "TT2020", monospace;
+  font-family: "TT2020B", monospace;
   background-color: #EFE3D1;
   color: #505050;
   letter-spacing: 0.3rem;
+}
+
+p {
+  font-family: "TT2020D", monospace;
+  background-color: #EFE3D1;
+  color: #505050;
 }
 
 a {
