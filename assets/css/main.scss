@@ -12,8 +12,8 @@
 }
 
 @font-face {
-  font-family: "TT2020F";
-  src: url("/assets/fonts/TT2020StyleF-Regular.woff2") format("woff2");
+  font-family: "TT2020G";
+  src: url("/assets/fonts/TT2020StyleG-Regular.woff2") format("woff2");
   font-weight: normal;
   font-style: normal; 
 }
@@ -25,9 +25,9 @@ h1, h2, h3, h4, ul, li {
 }
 
 body {
-  font-family: "TT2020F", monospace;
+  font-family: "TT2020G", monospace;
   background-color: #eae3d6;
-  color: #000000;
+  color: #666666;
 }
 
 a {
